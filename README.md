@@ -1,0 +1,1 @@
+![Build-Push-And-Test Workflow](https://github.com/rihemmajdoub-creator/devops-sre-course-labs-step-by-step/actions/workflows/build-push-and-deploy.yml/badge.svg?branch=master)
